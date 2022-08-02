@@ -1,2 +1,2 @@
 # PollApp
-PollApp with Django 
+PollApp with Django, show casing basic understanding of Django framework.
